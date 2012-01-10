@@ -1,3 +1,4 @@
 build/xdate*.js
 dist
 docs
+.tags*
